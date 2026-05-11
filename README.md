@@ -63,3 +63,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 =======
 # activity-1-2-3-4-5
 >>>>>>> 7e73e0b07b4a5c83ce66e5c915817e32179e82c9
+=======
+Ruiz, Arnie A.
+Activity 1,2,3,4, and 5
+>>>>>>> 8ba60a7b2be4815ec3a5397c27edb5b64768a6cb
