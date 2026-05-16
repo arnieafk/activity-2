@@ -15,9 +15,12 @@ Description of the repository: kani nga repository kay about sa Activity 2,3, ug
 
 
 Link of:
-Activity 3 <-----> Individual Activity: Laravel CRUD System with Database
+Activity 3 Individual Activity: Laravel CRUD System with Database
 
+https://github.com/arnieafk/activity-3
 
 
 Link of:
-Activity 4 <------> Individual Activity 4: Laravel Form Handling & Validation
+Activity 4 Individual Activity 4: Laravel Form Handling & Validation
+
+https://github.com/arnieafk/activity-4
