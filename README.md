@@ -33,3 +33,15 @@ I already add you as a collaborator sa tanang repo sir...
 Naa pud sa image kada repo ang screenshot sa system sir...
 
 
+
+
+
+Kani pud nga system sir, is mao ni ang kadtong Proposal System..
+
+Intitled: Online Lost and Found Web Application
+
+https://github.com/arnieafk/proposal-system
+
+
+
+
