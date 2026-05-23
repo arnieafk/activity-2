@@ -44,4 +44,15 @@ https://github.com/arnieafk/proposal-system
 
 
 
+______________________________________________________________________________________________________________________
+
+
+mao sad ni ang last nga individual activity nga imong gihatag namo sir...
+
+Individual Activity4: “Design Your Own System Using UML”
+
+
+https://github.com/arnieafk/activity-2/blob/main/Individual%20Activity4.docx
+
+
 
